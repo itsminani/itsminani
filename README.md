@@ -9,6 +9,17 @@ I'm a tech enthusiast based in Montreal, Quebec. I focus on Web Development, alo
 ![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=aws&logoColor=white&color=f59842)
 ![](https://img.shields.io/badge/Code-GitHub-informational?style=flat&logo=github&logoColor=white&color=0d2442)
 
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/itsminani
+[2]: https://www.linkedin.com/in/heritierlucminani/
 <!--
 **itsminani/itsminani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
