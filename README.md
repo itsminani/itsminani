@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm a tech enthusiast based in Montreal, Quebec. I focus on Web Development, along with building progressive web apps using Vue. My work primarily focuses on creating intuitive user-facing applications that allow users to explore new ideas, information and express themselves. Additionally, I love collaborating with other developers and designers and enjoy learning new skills that I can apply in my work. When not coding or designing, you'll usually find me playing basketball or an online game.
+
+##Technologies
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 <!--
 **itsminani/itsminani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+<!-- Banner Goes Here -->
+<!-- I'm a tech enthusiast based in Montreal, Quebec. I focus on Web Development, along with building progressive web apps using Vue. My work primarily focuses on creating intuitive user-facing applications that allow users to explore new ideas, information and express themselves. Additionally, I love collaborating with other developers and designers and enjoy learning new skills that I can apply in my work. When not coding or designing, you'll usually find me playing basketball or an online game. -->
